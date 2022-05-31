@@ -1,17 +1,27 @@
-name: Update README
-
 on:
   schedule:
-    - cron: '*/30 * * * *'    # every half an hour
-  workflow_dispatch:
-
+    - cron: '0 */12 * * *' # every 12 hours
+  push:
+    branches:
+      - master
+      - main
 jobs:
-  build:
+  publish:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
-
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Generate README.md
+      uses: teoxoy/profile-readme-stats@v1
+      with:
+        token: ${{ secrets.USER_TOKEN }}
+    - name: Update README.md
+      run: |
+        if [[ "$(git status --porcelain)" != "" ]]; then
+        git config user.name github-actions[bot]
+        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+        git add .
+        git commit -m "Update README"
+        git push
+        fi
