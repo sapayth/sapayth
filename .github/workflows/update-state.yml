@@ -13,6 +13,6 @@ jobs:
     - name: Generate README.md
       uses: teoxoy/profile-readme-stats@v1
       with:
-        token: ${{ secrets.USER_TOKEN }}
+        token: ${{ secrets.profile-readme-states }}
     - name: Update README.md
       run: echo 'End!!!'
