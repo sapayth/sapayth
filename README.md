@@ -1,6 +1,4 @@
-<!-- ### Hi there 👋
-
-**sapayth/sapayth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **sapayth/sapayth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,7 +11,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+![](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)
+### Hi there 👋, I'm Sapayth
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+A passionate developer from Bangladesh. I am a tech enthusiast and a quick learner. I am always open to learning new technologies and frameworks. I am always open to collaborating on projects and innovative/disruptive ideas. Opensource is my passion and I love to share my knowledge with others.
+
+<div>
+<a href="https://github.com/sapayth/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sapayth&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/sapayth/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapayth" />
+</a>
+</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
