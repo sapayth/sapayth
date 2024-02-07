@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 ![](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)
 ### Hi there 👋, I'm Sapayth
 
+🚀 Full-Stack Developer 🚀
+
 A passionate developer from Bangladesh. I am a tech enthusiast and a quick learner. I am always open to learning new technologies and frameworks. I am always open to collaborating on projects and innovative/disruptive ideas. Opensource is my passion and I love to share my knowledge with others.
 
 <div>
