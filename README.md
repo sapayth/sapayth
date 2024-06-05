@@ -29,11 +29,11 @@ A passionate developer from Bangladesh. I am a tech enthusiast and a quick learn
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js            5 hrs 4 mins    ██████████████░░░░░░░░░░░   56.29 %
-PHP               3 hrs 7 mins    ████████▓░░░░░░░░░░░░░░░░   34.58 %
-textmate          28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-JavaScript        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-CSS               3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Vue.js            5 hrs 4 mins    █████████████░░░░░░░░░░░░   52.61 %
+PHP               3 hrs 43 mins   █████████▓░░░░░░░░░░░░░░░   38.59 %
+textmate          28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+JavaScript        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+CSS               3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
