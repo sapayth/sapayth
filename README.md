@@ -29,7 +29,9 @@ A passionate developer from Bangladesh. I am a tech enthusiast and a quick learn
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP        0 secs          █████████████▓░░░░░░░░░░░   55.31 %
+textmate   0 secs          █████████░░░░░░░░░░░░░░░░   35.97 %
+Vue.js     0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
 ```
 
 <!--END_SECTION:waka-->
