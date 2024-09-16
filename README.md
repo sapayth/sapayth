@@ -30,7 +30,7 @@ A passionate developer from Bangladesh. I am a tech enthusiast and a quick learn
 
 ```txt
 PHP               8 hrs 20 mins   ███████████░░░░░░░░░░░░░░   43.88 %
-JavaScript        7 hrs 43 mins   ██████████░░░░░░░░░░░░░░░   40.62 %
+JavaScript        7 hrs 42 mins   ██████████░░░░░░░░░░░░░░░   40.61 %
 textmate          47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
 JSON              44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
 Text              39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
