@@ -26,10 +26,3 @@ A passionate developer from Bangladesh. I am a tech enthusiast and a quick learn
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapayth" />
 </a>
 </div>
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
