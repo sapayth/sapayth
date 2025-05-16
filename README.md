@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapayth" alt="sapayth" /></a> </p>
 
-- 🔭 I’m currently working on [WP User Frontend](https://wordpress.org/plugins/wp-user-frontend/) and [Sheet Wise](https://wordpress.org/plugins/sheet-wise/)
+- 🔭 I’m currently working on [WP User Frontend](https://wordpress.org/plugins/wp-user-frontend/), [Sheet Wise](https://wordpress.org/plugins/sheet-wise/) and [Bulk Page Maker Light](https://github.com/sapayth/bulk-page-maker-light)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
