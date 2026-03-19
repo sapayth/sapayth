@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sapayth</h1>
 <p align="center">Hi there! I'm a tech-loving developer from Bangladesh who’s always up for an adventure with new technologies and frameworks. A quick learner with a big love for open-source, I enjoy sharing knowledge and teaming up on exciting projects and game-changing ideas. Let’s build something awesome together!</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapayth" alt="sapayth" /></a> </p>
-
 - 🔭 I’m currently working on [WP User Frontend](https://wordpress.org/plugins/wp-user-frontend/), [weDocs](https://wordpress.org/plugins/wedocs), [Sheet Wise](https://wordpress.org/plugins/sheet-wise/) and [Bulk Page Maker Light](https://github.com/sapayth/bulk-page-maker-light)
 
 <h3 align="left">Connect with me:</h3>
