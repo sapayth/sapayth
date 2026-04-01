@@ -1,8 +1,13 @@
-![](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)
 <h1 align="center">Hi 👋, I'm Sapayth</h1>
 <p align="center">Hi there! I'm a tech-loving developer from Bangladesh who’s always up for an adventure with new technologies and frameworks. A quick learner with a big love for open-source, I enjoy sharing knowledge and teaming up on exciting projects and game-changing ideas. Let’s build something awesome together!</p>
 
-- 🔭 I’m currently working on [WP User Frontend](https://wordpress.org/plugins/wp-user-frontend/), [weDocs](https://wordpress.org/plugins/wedocs), [Sheet Wise](https://wordpress.org/plugins/sheet-wise/) and [Bulk Page Maker Light](https://github.com/sapayth/bulk-page-maker-light)
+## Currently working on:
+- [WP User Frontend](https://wordpress.org/plugins/wp-user-frontend/)
+- [weDocs](https://wordpress.org/plugins/wedocs)
+- [Script Report](https://wordpress.org/plugins/script-report/)
+- [Sheet Wise](https://wordpress.org/plugins/sheet-wise/)
+- [Content Forge](https://wordpress.org/plugins/content-forge/)
+- [Events, Appointments & Booking Calendar](https://wordpress.org/plugins/nemtly-booking/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
