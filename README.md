@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sapayth</h1>
 <p align="center">Hi there! I'm a tech-loving developer from Bangladesh who’s always up for an adventure with new technologies and frameworks. A quick learner with a big love for open-source, I enjoy sharing knowledge and teaming up on exciting projects and game-changing ideas. Let’s build something awesome together!</p>
 
-## Currently working on:
-- [WP User Frontend](https://wordpress.org/plugins/wp-user-frontend/)
-- [weDocs](https://wordpress.org/plugins/wedocs)
-- [Script Report](https://wordpress.org/plugins/script-report/)
-- [Sheet Wise](https://wordpress.org/plugins/sheet-wise/)
-- [Content Forge](https://wordpress.org/plugins/content-forge/)
-- [Events, Appointments & Booking Calendar](https://wordpress.org/plugins/nemtly-booking/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/4856127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4856127" height="30" width="40" /></a>
